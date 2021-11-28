@@ -22,8 +22,3 @@ class Solution:
             if nums[i] != val:
                 newLen = i
         return newLen + 1 
-
-
-
-
-
